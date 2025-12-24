@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "combigraphs"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Петлин Артём", email="1132246846@pfur.ru" },
 ]
