@@ -1,4 +1,4 @@
-from combfuncs import place
+from combigraphs.combfuncs import place
 
 def count_routes_of_lenght_k_infull_graph(n, k):
     """Подсчет числа путей длины k между двумя фиксированными вершинами в полном графе."""

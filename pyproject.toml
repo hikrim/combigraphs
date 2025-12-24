@@ -15,9 +15,10 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
+
 dependencies = [
-    "matplotlib",
-    "networkx",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
 ]
 
 license = "GPL-3.0-or-later"

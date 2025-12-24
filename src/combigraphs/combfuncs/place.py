@@ -1,4 +1,4 @@
-from . import fact
+from combigraphs.combfuncs import fact
 
 def placement(n, k):
     if (n == k) and (k == (n - 1)):

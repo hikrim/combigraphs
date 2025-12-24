@@ -1,4 +1,4 @@
-from . import fact
+from combigraphs.combfuncs import fact
 
 def combination(n, k):
     if (k == 0) or (n == k):

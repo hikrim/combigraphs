@@ -1,4 +1,4 @@
-from combfuncs import comb
+from combigraphs.combfuncs import comb
 
 def count_subgraphs_of_size_k(graph, k):
     '''Находит максимальное количество подграфов размера k вершин'''
