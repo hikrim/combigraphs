@@ -16,6 +16,10 @@ pip install combigraphs
 
 ---
 
+## Зависимости 
+
+Combigraphs использует matplotlib и networkx для вывода окна с графом, то есть его построения и визуализации
+
 ## Модули и функции
 
 ### Модуль `combigraphs.comb` — комбинаторика
