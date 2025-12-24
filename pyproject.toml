@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "combigraphs"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
   { name="Петлин Артём", email="1132246846@pfur.ru" },
 ]
@@ -15,10 +15,9 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
-
 dependencies = [
-    "matplotlib>=3.10.8",
-    "networkx>=3.6.1",
+    "matplotlib",
+    "networkx",
 ]
 
 license = "GPL-3.0-or-later"
